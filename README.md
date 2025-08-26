@@ -1,4 +1,4 @@
-# Website: https://blei920.github.io/unofficial-deped/
+# Website: https://blei920.github.io/DepEd/
 
 # 🇵🇭 DepEd-Inspired Web App
 
