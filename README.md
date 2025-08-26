@@ -44,10 +44,7 @@ This project was created for **educational and demonstration purposes only**. Al
 
 ## 👨‍💻 Built With
 
-- React / HTML / CSS
-- Flask / Python
-- Bootstrap / Tailwind (optional)
-- JSON / REST API (for data handling)
+- HTML / CSS / JS
 
 ---
 
